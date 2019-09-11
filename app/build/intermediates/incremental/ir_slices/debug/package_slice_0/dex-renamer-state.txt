@@ -1,0 +1,4 @@
+#Mon Sep 09 18:01:15 IST 2019
+base.0=D\:\\Demo\\jetPack Demo\\LiveData_jetpack_Demo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
